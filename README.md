@@ -28,8 +28,6 @@ The goal is to build practical understanding of how enterprise networks are desi
 ## 🧰 Skills Demonstrated
 
 
-\
-
 **Networking Fundamentals**
 
 * OSI and TCP/IP concepts
