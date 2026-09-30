@@ -1,10 +1,15 @@
+<div align="center">
+
 # 🌐 IP Networking Labs
 
 ### MD. Sakib Islam
 
 *Cybersecurity Analyst — Self-Taught | BSc in CSE, AIUB*
 
-[Email](mailto:mdsakibislam.infosec@gmail.com) · [LinkedIn](https://linkedin.com/in/mdsakibislam)
+[![Email](https://img.shields.io/badge/Email-mdsakibislam.infosec%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdsakibislam.infosec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdsakibislam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsakibislam)
+
+</div>
 
 ---
 
